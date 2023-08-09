@@ -2,5 +2,5 @@
 A lightweight CNN developed specifically for radiology image analysis.
 
 
-<img src="https://github.com/PKhosravi-CityTech/LightCnnRad/blob/main/Images/LightCnnRad.png" width="400" />
+<img src="https://github.com/PKhosravi-CityTech/LightCnnRad/blob/main/Images/LightCnnRad.png" width="500" />
 
