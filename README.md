@@ -14,7 +14,7 @@ The provided GitHub repository for LightCnnRad offers a comprehensive resource t
 - Ref2: Mooney, P. (2018). Chest X-Ray Images (Pneumonia). https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia.
 - Ref3: Dubey, S. (2020). https://www.kaggle.com/datasets/tourist55/alzheimers-dataset-4-class-of-images
 
-:white_check_mark: The development of LightCnnRad is a collaborative effort, with credit attributed to the contributions of Eshaan Haque, WintPyae LynnHtaik, Tassadit Lounes, Raecine Greaves, Mehnaz Hoque and Ebtisam Mohamed.
+:white_check_mark: The development of LightCnnRad is a collaborative effort, with credit attributed to the contributions of Eshaan Haque, WintPyae LynnHtaik, Tassadit Lounes, Raecine Greaves, Mehnaz Hoque, and Ebtisam Mohamed.
 
 
 
