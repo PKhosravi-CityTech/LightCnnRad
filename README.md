@@ -10,5 +10,7 @@ The provided GitHub repository for LightCnnRad offers a comprehensive resource t
 
 :diamond_shape_with_a_dot_inside: Please access the "*LightCnnRad.ipynb*" file in Google Colab and follow the provided instructions. Also, The sample images can be found as "*Data_Brain.zip*" in the "*Images*" folder. 
 
+:white_check_mark: The development of LightCnnRad is a collaborative effort, with credit attributed to the contributions of Eshaan Haque, WintPyae LynnHtaik, Tassadit Lounes, Raecine Greaves, Mehnaz Hoque and Ebtisam Mohamed.
+
 
 
