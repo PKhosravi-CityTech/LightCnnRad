@@ -1,5 +1,6 @@
 # LightCnnRad
-A lightweight CNN developed specifically for radiology image analysis.
+
+:star2: A lightweight CNN developed specifically for radiology image analysis.
 
 Introducing "LightCnnRad," an innovative CNN algorithm meticulously crafted for the precise analysis of radiology images, including MRI and CT scans. The uniqueness of LightCnnRad lies in its minimal number of hidden layers, strategically designed to strike a harmonious balance between complexity and efficiency. This lightweight architecture not only ensures that the model can be trained from scratch but also guards against the perils of overfitting, a common challenge in deep learning. LightCnnRad's foundation is rooted in its adaptability to radiology image datasets, enabling it to capture intricate nuances while maintaining generalization prowess. The algorithm's streamlined structure allows it to swiftly process these images, making it an ideal choice for medical professionals seeking rapid and accurate insights. With LightCnnRad, the realm of radiology image analysis is poised to witness a significant leap forward in both accuracy and efficiency.
 
@@ -7,7 +8,7 @@ Introducing "LightCnnRad," an innovative CNN algorithm meticulously crafted for 
 
 The provided GitHub repository for LightCnnRad offers a comprehensive resource to both experts and beginners in the field of deep learning and radiology image analysis. Notably, the repository includes a meticulously crafted Colab file, complete with step-by-step instructions. This feature empowers even those new to deep learning to confidently navigate through the process of training the model. With a user-friendly approach, the Colab file serves as a valuable guide, enabling beginners to embark on a successful journey of model training without unnecessary complexities. Whether you're an experienced practitioner or a novice eager to explore the world of deep learning, the LightCnnRad GitHub repository equips you with the tools and guidance needed to harness the power of this innovative algorithm effectively.
 
-Please access the "*LightCnnRad.ipynb*" file in Google Colab and follow the provided instructions. Also, The sample images can be found as "*Data_Brain.zip*" in the "*Images*" folder. 
+:star: Please access the "*LightCnnRad.ipynb*" file in Google Colab and follow the provided instructions. Also, The sample images can be found as "*Data_Brain.zip*" in the "*Images*" folder. 
 
 
 
