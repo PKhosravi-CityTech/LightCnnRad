@@ -1,4 +1,4 @@
-![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg) ![Python 3.10.12](https://img.shields.io/badge/python-3.10.12-blue.svg) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg) ![Python 3.10.12](https://img.shields.io/badge/python-3.10.12-red.svg) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 # LightCnnRad
 
