@@ -1,4 +1,4 @@
-![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)
+![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg) ![Python 3.10.12](https://img.shields.io/badge/python-3.6-blue.svg)
 
 # LightCnnRad
 
