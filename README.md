@@ -1,3 +1,5 @@
+![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)
+
 # LightCnnRad
 
 :diamond_shape_with_a_dot_inside: A lightweight CNN developed specifically for radiology image analysis.
