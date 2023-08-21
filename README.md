@@ -22,9 +22,10 @@ The provided GitHub repository for LightCnnRad offers a comprehensive resource t
 
 📚 **How to Cite:** When referencing this repository, please use the following citation format:
 
-> *LightCnnRad*, BioMind AI Lab, Department of Biological Sciences, New York City College of Technology, CUNY, New York City, NY, USA. [Link to Repository](https://github.com/PKhosravi-CityTech/LightCnnRad)
+> *LightCnnRad*, BioMind AI Lab, Department of Biological Sciences, New York City College of Technology, CUNY, New York City, NY, USA. Released in 2023. [Link to Repository](https://github.com/PKhosravi-CityTech/LightCnnRad)
 
 Thank you for contributing to the advancement of AI and research. 🤖
+
 
 
 
