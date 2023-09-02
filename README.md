@@ -25,7 +25,6 @@ The provided GitHub repository for LightCnnRad offers a comprehensive resource t
 
 Thank you for contributing to the advancement of AI and research. 🤖
 
-<a rel="license" href="https://creativecommons.org/publicdomain/zero/1.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/p/mark/1.0/88x31.png" /></a><br /> This work is licensed under a <a rel="license" href="https://creativecommons.org/publicdomain/zero/1.0/">Creative Commons CC0 1.0 Universal (CC0 1.0) Public Domain Dedication</a>.
 
 
 
