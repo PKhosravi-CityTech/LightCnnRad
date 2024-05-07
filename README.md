@@ -15,8 +15,6 @@ The GitHub repository for LightCnnRad offers a comprehensive resource to both ex
 
 :diamond_shape_with_a_dot_inside: Please access the "LightCnnRad.ipynb" file on Google Colab and follow the provided instructions. Additionally, you can find sample images labeled as "Data.zip" in the "Images" folder. Please be aware that these images are provided as examples to demonstrate the required format, and you will need to gather a larger set of images for training the model. 
 
-:white_check_mark: The development of LightCnnRad is a collaborative effort, with credit attributed to the contributions of Eshaan Haque, Aashi Hirani, Howe Chen, WintPyae LynnHtaik, Tassadit Lounes, Raecine Greaves, Mehnaz Hoque, Maxwell Boger, and Ebtisam Mohamed.
-
 🛰️ **Citation Request:** If you find the contents and tools in this repository valuable for your work, we kindly request that you cite it in your research or project. Your citation helps acknowledge the effort put into creating and maintaining these AI-driven resources.
 
 📚 **How to Cite:** When referencing this repository, please use the following citation format:
